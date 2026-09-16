@@ -5,7 +5,7 @@ Robotics Engineer focused on ROS 2, Embedded Systems, Autonomous Robots, PCB Des
 
 ## About Me
 
-- Robotics engineering student
+- Robotics engineer
 - Interested in autonomous systems and mobile robotics
 - Building embedded and real-time systems
 - Working with ROS 2, C/C++, Python, PCB design, and sensor integration
