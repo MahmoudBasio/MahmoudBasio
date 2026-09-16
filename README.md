@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**MahmoudBasio/MahmoudBasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Mahmoud Basiony 👋
 
-Here are some ideas to get you started:
+Robotics Engineer focused on ROS 2, Embedded Systems, Autonomous Robots, PCB Design, and Real-Time DSP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Robotics engineering student
+- Interested in autonomous systems and mobile robotics
+- Building embedded and real-time systems
+- Working with ROS 2, C/C++, Python, PCB design, and sensor integration
+- Research interests include robotics, control, perception, sensor fusion, and embedded DSP
+
+## Featured Projects
+
+### DSP Guitar MultiFX
+Open-source real-time embedded guitar multi-effects platform based on Teensy 4.1.
+
+### Baremetal Bird
+Custom embedded drone flight controller using ATmega32 and ESP8266.
+
+## Research Interests
+
+- Autonomous Systems
+- Mobile Robotics
+- ROS 2
+- Embedded Systems
+- Control Systems
+- Robot Perception
+- Sensor Fusion
+- Real-Time Digital Signal Processing
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/basio
+- ORCID: https://orcid.org/0009-0007-1747-1609
