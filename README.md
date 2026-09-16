@@ -1,5 +1,5 @@
 
-# Hello, I'm Mahmoud Basiony 👋
+# Hello, I'm Mahmoud Basiony 
 
 Robotics Engineer focused on ROS 2, Embedded Systems, Autonomous Robots, PCB Design, and Real-Time DSP.
 
